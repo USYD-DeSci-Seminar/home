@@ -13,9 +13,9 @@ Each seminar features a distinguished speaker presenting cutting-edge research o
 | 18 October 2024 | Fan Zhang | Yale | TBA |
 | 11 October 2024 | Mingxi Ye | Sun Yat-sen University | The Oracle Problem in Smart Contract Testing |
 | 4 October 2024 | Taro Tsuchiya | CMU | Blockchain Amplification Attack |
-| 27 September 2024 | *Clément* Canonne |  |  |
+| 27 September 2024 | *Clément* Canonne | USYD | Distributed Inference and the Use of Public Randomness in Testing and Learning |
 | 20 September 2024 | Thomas Hardjono | MIT | Decentralized Asset Registries |
 | 6 September 2024 | Aviv Yaish | Yale | Barriers to Collusion-resistant Transaction Fee Mechanisms |
 | 30 August 2024 | Aravind | USYD | New Ideas for Secure And Fair Multi-Party Computation |
 | 23 August 2024 | Liyi Zhou | USYD | Redefining Blockchain Security |
-| 16 August 2024 | Hanwen Feng | USYD |  |
+| 16 August 2024 | Hanwen Feng | USYD | Decentralization at the cost of Representation:  A New Distributed Key Generation Protocol  Breaking the Cubic Communication Barrier |
