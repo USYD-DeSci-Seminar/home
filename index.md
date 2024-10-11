@@ -1,0 +1,5 @@
+# Decentralised Science (DeSci) Seminar@Sydney Blockchain
+
+Welcome to the Decentralised Science (DeSci) Seminar series hosted by Sydney Blockchain. This seminar series brings together leading researchers and practitioners in the fields of blockchain technology, cryptography, and decentralized systems. Our goal is to foster knowledge exchange, stimulate innovative ideas, and promote collaboration in the rapidly evolving landscape of decentralized science.
+
+Each seminar features a distinguished speaker presenting cutting-edge research or insights on topics ranging from blockchain security and multi-party computation to smart contract testing and decentralized asset management. Join us to explore the frontiers of DeSci and engage in thought-provoking discussions with experts from around the world.
