@@ -6,16 +6,16 @@ Each seminar features a distinguished speaker presenting cutting-edge research o
 
 ## Schedule
 
-| Date | Speaker | Affiliation | Mode | Title |
-|------|---------|-------------|------|-------|
-| 16 August | Hanwen Feng | USYD | TBD | TBA |
-| 23 August | Liyi Zhou | USYD | TBD | Redefining Blockchain Security |
-| 30 August | Aravind | USYD | TBD | New Ideas for Secure And Fair Multi-Party Computation |
-| 6 September | Aviv Yaish | Yale | Remote | Barriers to Collusion-resistant Transaction Fee Mechanisms |
-| 20 September | Thomas Hardjono | MIT | In Person | Decentralized Asset Registries |
-| 27 September | *Clément* Canonne | TBD | In Person | TBA |
-| 4 October | Taro Tsuchiya | CMU | Remote | Blockchain Amplification Attack |
-| 11 October | Mingxi Ye | Sun Yat-sen University | TBD | The Oracle Problem in Smart Contract Testing |
-| 18 October | Fan Zhang | Yale | TBD | TBA |
-| 25 October | Ke Wu | UMich | TBD | TBA |
-| 22 November | Daniel Xiapu Luo | HK PolyU | TBD | TBA |
+| Date | Speaker | Affiliation | Title |
+|------|---------|-------------|-------|
+| 16 August | Hanwen Feng | USYD | TBA |
+| 23 August | Liyi Zhou | USYD | Redefining Blockchain Security |
+| 30 August | Aravind | USYD | New Ideas for Secure And Fair Multi-Party Computation |
+| 6 September | Aviv Yaish | Yale | Barriers to Collusion-resistant Transaction Fee Mechanisms |
+| 20 September | Thomas Hardjono | MIT | Decentralized Asset Registries |
+| 27 September | *Clément* Canonne |  |  |
+| 4 October | Taro Tsuchiya | CMU | Blockchain Amplification Attack |
+| 11 October | Mingxi Ye | Sun Yat-sen University | The Oracle Problem in Smart Contract Testing |
+| 18 October | Fan Zhang | Yale | TBA |
+| 25 October | Ke Wu | UMich | TBA |
+| 22 November | Daniel Xiapu Luo | HK PolyU | TBA |
